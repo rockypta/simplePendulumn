@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fluted-union-169802",
+  "private_key_id": "7c42eb35685413d39d26ca66351c3101f467c6c9",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDLxxQZj/dWT81/\nVA+hU2OzU+a6OI4YeoAY46Bk8dUymhqX6IiStA8rFmZoryGh7BlYj3p0Fjo3uIyL\nHtZjDkIjMqUGzZVEVRNoHTfDO0SZLJfiKC1twkqYH3ePJFFqwYoXqxqo/Q3dthKE\nZHsZ3gRaDU7AfY6YkaSzr7jVc+9V0TOHYk6SSqCpERUwHKiXfdSbVc5mTtZMLV3M\nZswVfIs3VcXSnrk3AjLcPwh6iz6SzvXRuEjciy6bmCRxQF3q9LkT+w1RE1GJiUqu\n7qBZ7nBC4oPx3VR/bKC6pw59Bztgq18XqVv/nSecEnbDLdiR8zekV2I/9oxbV4YZ\n6dvbdt5HAgMBAAECggEAL6Y29H0+BDA36KCi4QHLS+kACCZmT6IBZxB+9mu4AxOW\nyVOl78vryhL8Ulk1P5QiHxu5sgBqj5H3RyaoUdRJMcrLXOpgj3BnT86ZNe0bbsfH\nIipr6QDoCWc+QTnoUdK8tCkd3EsD3YaQEOYgBN3t3ZLECe2yFMnlneCmkz7/RWzw\nphPXDaoyqYzXbyIZXc82woL0P+Gctoiz0oJGjT9CsDprrKU8pD3dZlb0YpZOgs7I\nAiXzlH7eE4FUqixi8mlLfBi6KzDpK0g/ms4Qft04+38LCczGXy+RVgXDxf9iAu5U\nvQ71Kae563ruZYu9iIRu4Twbley6Vsej8eOE1nDkfQKBgQD/mg3YngV4eU/C3x+d\nz6S5bt5WOJEMt0ebbTaip7mxPPBym6aQGjVzVMo4xHZ+zIKtvFM5Ev43KnFjA8HU\nmJFIy3wjODS1tYyRvqOM9y8yUpTb6JnWCfVcVM9J+5EMuYF/YCnyx+O1nAsncFho\neJ7H1dllegr2OxCAa18q/s2kfQKBgQDMGFrDytY8oTE426IhyzASmaHQHjUv0uaJ\n2JNMW+5vxkYFYBloW+mHa8lT9Tcm6Ttv9/XzeQYUIIiFNqZmy594gylA8wF3cvkB\n48LwfVaT3fGeO5mKPJolvfyOV8M+V6QHRLRBI8v+yeoPnCrou1aRgbcDi+wzOxCP\nKm2+xQ+dEwKBgQDat+jBQ/dKcARgrK1RTS2Xv9dh0GXOi8cqqPnnlb7Ae3UFnUua\nY9L5LcUdboA3YKkyIcTVQftnGVqNb9mdIjCwKe+/84inNQNkc81gAuTQGvpmc1Ow\nZDUhHTGEDVDBoru9U3yR05p2/WBOD0SXoR+9wLCWtShMK56jRT3afM9bwQKBgG8H\nzND5FwWS15lL+u8Rf8yOobX7yQmEXYCePrvqw1MxdURVXF0mq2vNmpA/NcrIVVp7\ndeUHcOQgMsTtzybbHZ1NFXNM//5AoPCDPLjiJuh4dIqVd9j5UQ65RZ0WZ5QRz51Y\npgtN8xtgMyJc3gcQa27rN2oJg+z28/I+rcd7oxvbAoGBAKLhTHo7L6NM/WBey6nF\noZhBtLonL5FZHsPgwWo5G4zyrkFOBGrtQIHA5EE12Bn63gSPfo9vEO6yS6X2Fv6U\n5TkeNir9crLKbDxjw7vuwJ34XAaEo1jOdS94051BmGaHOL1OaXkrVGPgXlM7begZ\nws8kKFqUqPpguOT+PgQuC2sz\n-----END PRIVATE KEY-----\n",
+  "client_email": "tryfirstprojectpython@fluted-union-169802.iam.gserviceaccount.com",
+  "client_id": "110896158860603992278",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/tryfirstprojectpython%40fluted-union-169802.iam.gserviceaccount.com"
+}
