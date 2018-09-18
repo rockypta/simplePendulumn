@@ -23,7 +23,7 @@ def merge(arr, leftArrStart, lefArrEnd, rightArrEnd):
     while leftArrIndex < leftArrSize and rightArrIndex < rightArrSize : 
         if tempLeftArr[leftArrIndex] <= tempRightArr[rightArrIndex]: 
             arr[mainArrIndex] = tempLeftArr[leftArrIndex] 
-            leftArrIndex += 1
+            leftArrIndex += 1                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
         else: 
             arr[mainArrIndex] = tempRightArr[rightArrIndex] 
             rightArrIndex += 1
