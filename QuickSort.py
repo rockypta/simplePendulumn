@@ -50,11 +50,11 @@ def mergeSort(arr,leftIndex,rightIndex):
   
         # Same as (l+r)/2, but avoids overflow for 
         # large l and h 
-        floatMid = int((leftIndex+(rightIndex-1))/2)
+        Mid = int((leftIndex+(rightIndex-1))/2)
         # Sort first and second halves 
-        mergeSort(arr, leftIndex, floatMid) 
-        mergeSort(arr, floatMid+1, rightIndex) 
-        merge(arr, leftIndex, floatMid, rightIndex) 
+        mergeSort(arr, leftIndex, Mid) 
+        mergeSort(arr, Mid+1, rightIndex) 
+        merge(arr, leftIndex, Mid, rightIndex) 
 
 
 
