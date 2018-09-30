@@ -33,7 +33,7 @@ def quickSort(arr,pivotLoc,leftStart,rightEnd):
 
     iCnt = 0
     for iCnt in range(0,len(tempRightArray)):
-        arr[len(tempLeftArray)+ iCnt] = tempRightArray[iCnt]
+        arr[leftStart+len(tempLeftArray)+ iCnt] = tempRightArray[iCnt]
 
 
     print(arr)
@@ -49,6 +49,6 @@ def quickSort(arr,pivotLoc,leftStart,rightEnd):
     quickSort(arr, tempRightPivot, tempRightStart, tempRightRightEnd)
     
 
-ArrayElems = [61, 173, 180, 227, 220, 441, 448, 467, 48, 70]
+ArrayElems = [61, 173, 180, 227, 220, 441, 448, 467, 48, 70, 85, 103, 114, 141, 148, 161, 173, 180, 227, 269, 311, 371, 405, 417]
 quickSort(ArrayElems,midPoint(len(ArrayElems)), 0, len(ArrayElems)-1)
 print(ArrayElems)
